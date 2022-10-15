@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Walking",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSvTsByLuiHdNPPpIHCVvMU4fZW7z9td0mzwebuOMugfzsJ0cnxEX8K7dvfG6pjp1zJg&usqp=CAU",
+    "details": "Daily doing 1 Hour.",
+     "age": "All age",
+    "time": 60
+  },
+  {
+    "id": "2",
+    "name": "Interval training",
+    "img": "https://i0.wp.com/post.greatist.com/wp-content/uploads/sites/2/2019/04/MountainClimbers-732x549.jpg?w=1155&h=1152",
+    "details": "Daily doing 45 Minute.",
+    "age": "All age",
+    "time": 40
+  },
+  {
+    "id": "3",
+    "name": "Squats",
+    "img": "https://blog.fitbit.com/wp-content/uploads/2016/10/ArmStanding.jpg",
+    "details": "Daily doing 30 Minute",
+    "age": "All age",
+    "time": 30
+  },
+  {
+    "id": "4",
+    "name": "Lunges",
+    "img": "https://experiencelife.lifetime.life/wp-content/uploads/2021/03/The_Lunge.jpg",
+    "details": "Daily doing 20 Minute",
+    "age": "All age",
+    "time": 20
+  },
+  {
+    "id": "5",
+    "name": "Push-ups",
+    "img": "https://www.kreedon.com/wp-content/uploads/2021/08/oYDbf5hQAePHEBNZTQMXRA.jpg",
+    "details": "Daily doing 10 pushup",
+    "age": "All age",
+    "time": 5
+  },
+  {
+    "id": "6",
+    "name": "Abdominal Crunches",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_fPGAZgSNywXHViHNAb1XP8Ujt-F41vcLC2QQwR3qwAJi5zvxBEp26c8xJHGHh-2iG8&usqp=CAU",
+    "details": "Daily doing 10 Minute",
+    "age": "All age",
+    "time": 5
+  }
+  
+]

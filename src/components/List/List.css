@@ -1,0 +1,66 @@
+.list {
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.personal-info {
+    background-color: black;
+    color: beige;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.personal {
+    color: rgb(198, 86, 42);
+}
+
+.break-section{
+    text-align: center;
+    color: aliceblue;
+    padding: 2px;
+    background-color: rgb(96, 80, 110);
+    border-radius: 10px;
+}
+
+.btn {
+background-color: aliceblue;
+    color: black;
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    border-radius: 100px;
+    padding: 10;
+
+}
+
+.btn:hover {
+    background-color: blue;
+}
+
+.exercise-details{
+    margin-top: 15px;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.extercise-time{
+    display: flex;
+}
+
+.button-details{
+    width: auto;
+    background: orange;
+    border: none;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.button-details:hover{
+    background-color: rgb(3, 113, 113);
+  
+    
+}
